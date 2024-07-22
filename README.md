@@ -8,12 +8,13 @@ OpenAI API
 ChromaDB
 
 # Features
-Chat with a chatbot: Ask questions or have a conversation with the chatbot.  
-Upload PDF files: Preview PDF files by uploading them to the application.  
-Update API Key: Easily update the OpenAI API key used by the chatbot.  
+- Chat with a chatbot: Ask questions or have a conversation with the chatbot.  
+- Upload PDF files: Preview PDF files by uploading them to the application.  
+- Update API Key: Easily update the OpenAI API key used by the chatbot.
+
+ # App Interface 
 
 ![App Interface](PDF-ChatGpt.png)
-Demo Video
 # Demo Video
 https://www.youtube.com/watch?v=GsP2IINq9CU
 
