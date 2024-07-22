@@ -7,7 +7,7 @@ Gradio
 OpenAI API
 ChromaDB
 
-#Features
+# Features
 Chat with a chatbot: Ask questions or have a conversation with the chatbot.
 Upload PDF files: Preview PDF files by uploading them to the application.
 Update API Key: Easily update the OpenAI API key used by the chatbot.
