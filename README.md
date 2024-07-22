@@ -12,7 +12,7 @@ ChromaDB
 - Upload PDF files: Preview PDF files by uploading them to the application.  
 - Update API Key: Easily update the OpenAI API key used by the chatbot.
 
- # App Interface 
+ # App Interface + Video Demo
 
 ![App Interface](PDF-ChatGpt.png)
 # Demo Video
