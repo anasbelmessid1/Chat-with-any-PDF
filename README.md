@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GsP2IINq9CU
 # Installation
 Clone the repository:
 
-git clone [https://github.com/ayushwattal/PDF-ChatGpt.git](https://github.com/anasbelmessid1/Chat-with-any-PDF/)
+git clone [https://github.com/anasbelmessid/PDF-ChatGpt.git](https://github.com/anasbelmessid1/Chat-with-any-PDF/)
 Install the required dependencies:
 
 pip install -r requirements.txt
